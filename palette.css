@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.adn-cycle-1-hex { color: #7A3D15; }
+.adn-cycle-2-hex { color: #FF9F5E; }
+.adn-cycle-3-hex { color: #C87137; }
+.adn-cycle-4-hex { color: #09747A; }
+.adn-cycle-5-hex { color: #36BFC7; }
+
+/* Color Theme Swatches in RGBA */
+.adn-cycle-1-rgba { color: rgba(122, 61, 21, 1); }
+.adn-cycle-2-rgba { color: rgba(255, 159, 94, 1); }
+.adn-cycle-3-rgba { color: rgba(200, 113, 55, 1); }
+.adn-cycle-4-rgba { color: rgba(9, 116, 122, 1); }
+.adn-cycle-5-rgba { color: rgba(54, 191, 199, 1); }
+
+/* Color Theme Swatches in HSLA */
+.adn-cycle-1-hsla { color: hsla(23, 70, 28, 1); }
+.adn-cycle-2-hsla { color: hsla(24, 100, 68, 1); }
+.adn-cycle-3-hsla { color: hsla(24, 56, 50, 1); }
+.adn-cycle-4-hsla { color: hsla(183, 86, 25, 1); }
+.adn-cycle-5-hsla { color: hsla(183, 57, 49, 1); }
