@@ -7,3 +7,7 @@
 ## Final version
 
 ![](adn-cycles.svg)
+
+![](adn-cycles-alt.svg)
+
+![](adn-cycles-minimal.svg)
